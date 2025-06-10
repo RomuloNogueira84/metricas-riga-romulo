@@ -20,7 +20,10 @@ function start() {
 }
 
 
+
 export { start };
+
+//O arquivo server.js contém a lógica principal do nosso servidor HTTP, que escuta requisições e responde com mensagens ou métricas do sistema.
 
 
 
