@@ -1,0 +1,26 @@
+{
+  "name": "metricas-riga-olx",
+  "version": "1.0.0",
+  "description": "Projeto de métricas solicitado pelo Rigamonte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erro: nenhum teste especificado\" && exit 1",
+    "romulo": "echo \"Teste do Romulo concluído!\" && exit 0",
+    "dev": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "prometheus",
+    "grafana",
+    "metricas",
+    "observabilidade",
+    "monitoramento",
+    "docker",
+    "docker-compose",
+    "performance",
+    "analytics"
+  ],
+  "author": "Romulo Nogueira de Souza",
+  "license": "ISC",
+  "type": "module"
+}
